@@ -1,0 +1,4 @@
+## Ekle
+
+PET_TOPLANANLAR = []
+PET_TOPLAMA_AKTIF = 0
